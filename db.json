@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "fname": "mohd",
+      "lname": "amaan",
+      "age": "11",
+      "number": "955555",
+      "id": "aee4"
+    },
+    {
+      "fname": "mohd",
+      "lname": "arman",
+      "age": "44",
+      "number": "444444",
+      "id": "522d"
+    }
+  ]
+}
