@@ -12,7 +12,6 @@ function App() {
         <Route path='/' element={<Home />} />
         <Route path='/adduser' element={<Adduser />} />
         <Route path='/edituser/:userid' element={<Edituser />} />
-
       </Routes>
       </BrowserRouter>
     </div>
